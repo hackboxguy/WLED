@@ -9,7 +9,7 @@
 
 // version code in format yymmddb (b = daily build)
 #define VERSION 2402120
-
+#define WLED_ETH_DEFAULT WLED_ETH_WESP32 //adav-changes
 //uncomment this if you have a "my_config.h" file you'd like to use
 //#define WLED_USE_MY_CONFIG
 
